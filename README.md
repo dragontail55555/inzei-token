@@ -1,0 +1,3 @@
+# INZEI Token
+
+see ./LICENSE
